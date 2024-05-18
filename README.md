@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AminG82
-- 👀 I’m interested in programing and security
+- 👀 I’m interested in programing 
 - 🌱 I’m currently learning Back-End
 - 💞️ I’m looking to collaborate on learning 
 - 📫 find me on Telegram"@AminG82"
